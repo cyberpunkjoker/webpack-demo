@@ -1,0 +1,1 @@
+document.write('多入口，多出口测试')
