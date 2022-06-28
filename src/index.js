@@ -1,1 +1,5 @@
-document.write('多入口，多出口测试')
+const app = document.getElementById('app')
+const divChild = document.createElement('div')
+divChild.innerHTML = "index-page --- 首页文本-测试"
+
+app.appendChild(divChild)

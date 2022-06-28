@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "noImplicitAny": true, // 不允许隐式any类型
+    "noImplicitAny": false, // 不允许隐式any类型
     "module": "commonjs", // 模块引入方式
     "target": "es5", // 打包后编译成什么形式
     "allowJs": true, // 在ts文件中允许引入js文件
